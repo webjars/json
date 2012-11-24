@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>json</artifactId>
-    <version>20121008-SNAPSHOT</version>
+    <version>20121008</version>
     <name>JSON</name>
     <description>WebJar for JSON</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/json</url>
         <connection>scm:git:https://github.com/webjars/json.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/json.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>json-20121008</tag>
     </scm>
 
     <developers>
